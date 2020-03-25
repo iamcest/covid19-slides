@@ -1,8 +1,10 @@
 % Covid-19 CXH slides
-% Carl Reynolds / @drcjar / www.carlreynolds.net 
+% Carl Reynolds and Richard Turner
 % 25 March 2020
 
 # Learning objectives
+
+#
 
 At the conclusion of this activity, participants will be able to...
 

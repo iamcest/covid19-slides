@@ -51,7 +51,7 @@ At the conclusion of this activity, participants will be able to...
 
 # {data-background="images/uk_cases_john_hopkins.png"}
 
-screenshot from [John Hopkins COVID-19 dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+[screenshot from John Hopkins COVID-19 dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 #
 

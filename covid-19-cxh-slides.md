@@ -45,7 +45,7 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-- covid-19 is increasingly common in the UK population just now; for most people it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, some people need hospital admission and some of those need ITU.
+- covid-19 is increasingly common in the UK population just now; for most people it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, a small subset of of people with disease need hospital admission and a small subset of those need ITU.
 
 #
 
@@ -53,7 +53,7 @@ At the conclusion of this activity, participants will be able to...
 
 # 
 
-- no significant sex difference, risk factors for hospital admission include having contact with a confirmed case, being older, being a healthcare worker, having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes, smoking.
+- no significant sex difference, risk factors for disease include include having contact with a confirmed case, risk factors for more severe disease include being older, having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes, and smoking.
 
 #
 
@@ -65,7 +65,7 @@ At the conclusion of this activity, participants will be able to...
 
 - be aware of aerosol generating procedures (AGP) including intubation, extubation and related procedures, tracheotomy/tracheostomy procedures, manual ventilation, open suctioning, bronchoscopy, non-invasive ventilation (NIV) e.g. Bi-level Positive Airway Pressure (BiPAP) and Continuous Positive Airway Pressure ventilation (CPAP), surgery and post-mortem procedures in which high-speed devices are used, high-frequency oscillating ventilation (HFOV), high-flow Nasal Oxygen (HFNO), induction of sputum, some dental procedures (e.g. high speed drilling).
 
-- wear appropriate PPE if you are exposed to AGP (at time of writing this is FFP3 as a minimum)
+- wear appropriate PPE if you are exposed to AGP (at time of writing this is FFP3 as a minimum); make sure you learn to [doff and don PPE safely (having a buddy helps)](https://www.cdc.gov/hai/pdfs/ppe/ppe-sequence.pdf)
 
 # 
 
@@ -109,7 +109,7 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 #
 
-- important to consider, and discuss with patients and document ceilings of care; clinical frailty score helpful (less than 5 is less frail and more likely to benefit from critical care, 5 or more is more frail and less likely to benefit from critical care.)
+- important to consider, and discuss with patients and document ceilings of care; clinical frailty score can be helpful in assessing who is likely to benefit from critical care.
 
 #
 

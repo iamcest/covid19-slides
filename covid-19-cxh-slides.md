@@ -51,11 +51,15 @@ At the conclusion of this activity, participants will be able to...
 
 - demand for hospital admission and ITU will shortly outstrip supply; [case fatality rate is probably around 1%](https://www.cebm.net/global-covid-19-case-fatality-rates/) (country figures depend on case definition and how much testing is done; note also infection fatality rate is lower since some people are infected but never become symptomatic and so never become a case). 
 
+# 
+
 - no significant sex difference, risk factors for hospital admission include having contact with a confirmed case, being older, being a healthcare worker, having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes, smoking.
 
 #
 
-- droplet (can't travel more than 1m, can persist on surfaces, surgical mask helpful) +/- aerosol transmission (can travel more than 1m, surgical mask not helpful). social distancing, hand hygiene, and in a hosp setting appropriate use of PPE are important.
+- droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful)
+- aerosol transmission (can travel more than 1m, surgical mask not helpful)
+- social distancing, hand hygiene, and in a hosp setting appropriate use of PPE are important.
 
 #
 
@@ -66,7 +70,7 @@ At the conclusion of this activity, participants will be able to...
 # 
 
 - don't take covid-19 home; change your scrubs or clothes ideally before leaving work, but
-certainly on arriving home, and wash the clothes just as you normally would (virus disolved by normal detergent on a normal wash)
+certainly on arriving home, and wash clothes just as you normally would (virus disolved by normal detergent on a normal wash)
 
 # key clinical features of covid-19
 

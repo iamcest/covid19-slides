@@ -60,7 +60,7 @@ At the conclusion of this activity, participants will be able to...
 # 
 
 - don't take covid-19 home; change your scrubs or clothes ideally before leaving work, but
-certainly on arriving home, and wash the clothes just as you normally would (virus disolved by normal detergent on a normal was)
+certainly on arriving home, and wash the clothes just as you normally would (virus disolved by normal detergent on a normal wash)
 
 # key clinical features of covid-19
 

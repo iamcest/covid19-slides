@@ -26,7 +26,7 @@ At the conclusion of this activity, participants will be able to...
 
 - Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the bug; Coronavirus disease 2019 (COVID-19) is the pneumonia that the bug causes
 
-# {data-background="/images/sars-cov-2.gif"}
+# {data-background="/images/sars-cov-2.jpg"}
 
 - SARS-CoV-2 is a large RNA virus (approximately 120 nm in diameter) from a family of viruses called coronaviruses. Corona means crown; it's called coronavirus because the virus is spherical and has spikes which look like a crown when viewed down an electron microscope.
 

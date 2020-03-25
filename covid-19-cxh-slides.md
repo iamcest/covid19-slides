@@ -66,7 +66,7 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - investigations to confirm diagnosis (and rule out differentials) and grade severity
-- basics include SpO2 (+/- abg), fbc (lymphopenia common), crp, d-dimer (high d-dimer assoc with increased mortality), CXR (bilateral inflitrates), nasopharyngeal and oropharngeal swabs and sputum for micro
+- basics include SpO2 (+/- abg), fbc (lymphopenia common), crp, d-dimer (high d-dimer assoc with increased mortality), CXR (bilateral inflitrates), nasopharyngeal and oropharngeal swabs and sputum for micro (there's a molecular test), serological test soon
 
 #
 

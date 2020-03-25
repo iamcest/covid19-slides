@@ -40,26 +40,39 @@ At the conclusion of this activity, participants will be able to...
 
 # 
 
-- demand for hospital admission and ITU will shortly outstrip supply; case fatality rate is probably around 1% (country figures depend on case definition and how much testing is done). no significant sex difference, risk factors for hospital admission include being older, being a healthcare worker, and having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes.
+- demand for hospital admission and ITU will shortly outstrip supply; case fatality rate is probably around 1% (country figures depend on case definition and how much testing is done). no significant sex difference, risk factors for hospital admission include having contact with a confirmed case, being older, being a healthcare worker, having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes, smoking.
 
 #
 
-- droplet +/- aerosol transmission
+- droplet (can't travel more than 1m, can persist on surfaces, surgical mask helpful) +/- aerosol transmission (can travel more than 1m, surgical mask not helpful).
 
 # key clinical features of covid-19 
 
+# 
+
+- it's a chamelion (can present in lot of different ways, can hide in plain view)
+
 #
 
-- cardinal clinical features are cough and fever
--- breathless common
+- typical presentation is cough and fever
+- other features include breathless, fatigue, myalgia, anorexia
+- less often chest pain (2-5%), GI (D&V 1-10%, abdo pain approx 2%) and neurological symptoms e.g headache confusion (9%), dizziness (9-12%)
 
+# 
 
+- differential diagnosis broad; plenty of diseases can mimic including flu, disease can also co-exist
+- no reason to think usual population disease are going to go away so Hickam's dictum likely to apply: "A man can have as many diseases as he damn well pleases."
 
-- differential diagnosis
-- investigations
-- diagnosis
-- management and prognosis
+#
 
+- investigations to confirm diagnosis (and rule out differentials) and grade severity
+- basics include SpO2 (+/- abg), fbc (lymphopenia common), crp, d-dimer (high d-dimer assoc with increased mortality), CXR (bilateral inflitrates), nasopharyngeal and oropharngeal swabs and sputum for micro
+
+#
+
+- management is largely supportive (several ongoing drug trials) and prognosis good (naturally it's much less good for subset of patients unwell enough for hospital admission)
+- important to consider non-covid19 disease
+- important to consider, and discuss with patients and document, ceilings of care
 
 # Quiz
 
@@ -69,6 +82,7 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
+- https://bestpractice.bmj.com/topics/en-gb/3000168
 - https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19
 - https://emcrit.org/ibcc/COVID19/
 - https://www.futurelearn.com/courses/covid19-novel-coronavirus/1

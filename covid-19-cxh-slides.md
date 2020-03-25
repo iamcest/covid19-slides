@@ -30,7 +30,7 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-- covid-19 is common in the population lately; it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, some need hospital and some of those, ITU.
+- covid-19 is increasingly common in the population just now; it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, some need hospital and some of those, ITU.
 
 # basic epidemiology of covid-19
 

@@ -23,7 +23,13 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - severe acute respiratory syndrome coronavirus 2 (sars-cov2) is the bug; Coronavirus disease 2019 (covid-19) is the pneumonia that the bug causes
+
+#
+
 - sars-cov2 is a large RNA virus (approximately 120 nm in diameter) from a family of viruses called coronaviruses. Corona means crown; it's called coronavirus because the virus is spherical and has spikes which look like a crown when viewed down an electron microscope.
+
+#
+
 - covid-19 is common in the population lately; it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, some need hospital and some of those, ITU.
 
 # basic epidemiology of covid-19

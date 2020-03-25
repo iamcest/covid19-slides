@@ -17,7 +17,7 @@ At the conclusion of this activity, participants will be able to...
 - define SARS-CoV-2 and COVID-19
 - describe the basic epidemiology of COVID-19
 - summarise the key clinical features of COVID-19
-- describe initial management of the disease, including of infection control procedures
+- describe initial management of the disease, including infection control procedures
 - assess disease severity and judge chances of a successful outcome with intensive care
 
 # sars-cov2 and covid-19
@@ -113,11 +113,12 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 #
 
-- Important to consider non-COVID-19 disease
+- Important to consider non-COVID-19 disease (bacterial pneumonia, asthma, COPD exacerbation, other respiratory conditions, and any other cause of fever, depending on clinical presentation)
 
 #
 
-- Important to isolate patient and take appropriate respiratory precautions
+- Important to isolate patient and take [appropriate respiratory precautions](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf)
+- Basic PPE for all suspected cases (surgical mask, gloves and apron); respirator (FFP3) mask, visor/goggles if aerosol generating procedures (e.g. intubation, non-invasive ventilation, chest physiotherapy, tracheostomy care, bronchoscopy, delivery of nebulised drugs)
 
 #
 
@@ -129,11 +130,11 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 #
 
-- Important to escalate early (if pt is for escalation) and requiring increase respiratory support and/or multiple organ support
+- Important to escalate early and discuss with ICU (if appropriate according to ceiling of care) and if requiring increasing respiratory and/or multiple organ support
 
 #
 
-- Important to use appropriate PPE (we can't look after our patients if don't look after ourselves), to not be at work if you, or someone in your household, shows symptoms (follow PHE and local guidelines). important to check if you should be at work or not if you're pregnant, have a pre-existing medical condition, or take immunosuppressants.
+- Important to use appropriate PPE (we can't look after our patients if don't look after ourselves), to not be at work if you, or someone in your household, shows symptoms consistent with COVID-19 (follow PHE and local guidelines). important to check if you should be at work or not if you're pregnant, have a pre-existing medical condition, or take immunosuppressants.
 
 # Useful contacts
 
@@ -152,11 +153,11 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 #
 
-- https://bestpractice.bmj.com/topics/en-gb/3000168
-- https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19
-- https://emcrit.org/ibcc/COVID19/
-- https://www.futurelearn.com/courses/covid19-novel-coronavirus/1
-- https://coronavirustechhandbook.com/doctors
+- [https://bestpractice.bmj.com/topics/en-gb/3000168](https://bestpractice.bmj.com/topics/en-gb/3000168)
+- [https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19)
+- [https://emcrit.org/ibcc/COVID19/](https://emcrit.org/ibcc/COVID19/)
+- [https://www.futurelearn.com/courses/covid19-novel-coronavirus/1](https://www.futurelearn.com/courses/covid19-novel-coronavirus/1)
+- [https://coronavirustechhandbook.com/doctors](https://coronavirustechhandbook.com/doctors)
 
 
 

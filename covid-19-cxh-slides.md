@@ -1,5 +1,5 @@
 % Covid-19 CXH slides
-% Carl Reynolds and Richard Turner
+% Carl Reynolds, Richard Turner, and Clare Ross
 % 25 March 2020
 
 # Caveat emptor

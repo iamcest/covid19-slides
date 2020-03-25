@@ -6,7 +6,7 @@
 
 #
 
-This is written by two respiratory doctors for an audience that includes operation doctors in the midst of a pandemic; it's a fluid situation, lots of research is being done and information contained within may become stale quickly. If you spot a bug or inaccuracy please ping me at [drcjar@gmail.com](drcjar@gmail.com) or submit a pull request [https://github.com/drcjar/covid-19-cxh-slides/](https://github.com/drcjar/covid-19-cxh-slides/) and I will fix.
+This is written by respiratory doctors for an audience that includes medical students in the midst of a pandemic; it's a fluid situation, lots of research is being done and information contained within may become stale quickly. If you spot a bug or inaccuracy please ping me at [drcjar@gmail.com](drcjar@gmail.com) or submit a pull request [https://github.com/drcjar/covid-19-cxh-slides/](https://github.com/drcjar/covid-19-cxh-slides/) and I will fix.
 
 # Learning objectives
 
@@ -51,6 +51,17 @@ At the conclusion of this activity, participants will be able to...
 
 - droplet (can't travel more than 1m, can persist on surfaces, surgical mask helpful) +/- aerosol transmission (can travel more than 1m, surgical mask not helpful). social distancing, hand hygiene, and in a hosp setting appropriate use of PPE are important.
 
+#
+
+- be aware of aerosol generating procedures (AGP) including intubation, extubation and related procedures, tracheotomy/tracheostomy procedures, manual ventilation, open suctioning, bronchoscopy, non-invasive ventilation (NIV) e.g. Bi-level Positive Airway Pressure (BiPAP) and Continuous Positive Airway Pressure ventilation (CPAP), surgery and post-mortem procedures in which high-speed devices are used, high-frequency oscillating ventilation (HFOV), high-flow Nasal Oxygen (HFNO), induction of sputum, some dental procedures (e.g. high speed drilling).
+
+- wear appropriate PPE if you are exposed to AGP (at time of writing this is FFP3 as a minimum)
+
+# 
+
+- don't take covid-19 home; change your scrubs or clothes ideally before leaving work, but
+certainly on arriving home, and wash the clothes just as you normally would (virus disolved by normal detergent on a normal was)
+
 # key clinical features of covid-19
 
 #
@@ -60,7 +71,7 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - typical presentation is cough and fever
-- other features include breathless, fatigue, myalgia, anorexia
+- other features include breathlessness, fatigue, myalgia, anorexia
 - less often chest pain (2-5%), GI (D&V 1-10%, abdo pain approx 2%) and neurological symptoms e.g headache confusion (9%), dizziness (9-12%)
 
 #
@@ -99,13 +110,31 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-- important to not be at work if you, or someone in your household, shows symptoms (follow PHE and local guidelines).
+- important to use appropriate PPE (we can't look after our patients if don't look after ourselves), to not be at work if you, or someone in your household, shows symptoms (follow PHE and local guidelines). important to check if you should be at work or not if you're pregnant, have a pre-existing medical condition, or take immunosuppressants.
 
-# Quiz
+# Useful contacts
 
 #
 
-key questions and answers (to be determined)
+|                                           | SMH              | CXH   | HH    |
+|-------------------------------------------|------------------|-------|-------|
+| COVID Team                                | Via mobile       |       |       |
+| ITU                                       | 1212             | 7487  | 9008  |
+| Palliative Care Out of Hours              | 26011            | 11402 | 31531 |
+|                                           | 7717547013       |       |       |
+| Site Manager                              | 1065             | 1438  | 9335  |
+| Bed Manager                               | 1085             | 1587  | 9231  |
+| Psych Liaison                             | 1624             | 5159  | 5158  |
+| Infection Protection Control Out of Hours | 21699 (blp 1007) | 35977 | 33272 |
+|                                           | Via Switch       |       |       |
+| Chaplaincy  Out of Hours                  | 21508            |       |       |
+|                                           | Via Switch       |       |       |
+
+# nota bene
+
+#
+
+- it's a pandemic; demand will outstrip supply, we all need to pull together to do the best we can for our patients with the limited resource we have, we will all have important parts to play, no task that helps our patients is too small (and none of us are too big for any task that helps our patients)
 
 # References / further reading
 

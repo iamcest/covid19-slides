@@ -65,13 +65,13 @@ At the conclusion of this activity, participants will be able to...
 
 - Droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful).
 - Aerosol transmission (can travel more than 1m, surgical mask not helpful).
-- Social distancing, hand hygiene, and in a hosp setting appropriate use of PPE are important.
+- Social distancing, hand hygiene, and in a hospital setting [appropriate use of PPE](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf) are important.
 
 #
 
 - Be aware of aerosol generating procedures (AGP) including intubation, extubation and related procedures, tracheotomy/tracheostomy procedures, manual ventilation, open suctioning, bronchoscopy, non-invasive ventilation (NIV) e.g. Bi-level Positive Airway Pressure (BiPAP) and Continuous Positive Airway Pressure ventilation (CPAP), surgery and post-mortem procedures in which high-speed devices are used, high-frequency oscillating ventilation (HFOV), high-flow Nasal Oxygen (HFNO), induction of sputum, some dental procedures (e.g. high speed drilling).
 
-- Wear appropriate PPE if you are exposed to AGP (at time of writing this is FFP3 as a minimum); make sure you learn to [doff and don PPE safely (having a buddy helps)](https://www.cdc.gov/hai/pdfs/ppe/ppe-sequence.pdf)
+- [Wear appropriate PPE](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf) if you are exposed to AGP (at time of writing this is FFP3 as a minimum); make sure you learn to [doff and don PPE safely (having a buddy helps)](https://www.cdc.gov/hai/pdfs/ppe/ppe-sequence.pdf)
 
 # 
 
@@ -99,6 +99,9 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 - Investigations to confirm diagnosis (and rule out differentials) and grade severity
 - Basics include SpO2 (+/- arterial blood gas), full blood count (lymphopenia common), U&Es, LFTs, CRP, troponin and D-dimer (both associated with increased mortality), CXR (bilateral infiltrates), nasopharyngeal and oropharyngeal swabs and sputum for micro (there's a molecular test), serological test soon
+
+# 
+
 - Even with 'gold standard' testing (multiple micro samples) and CT chest sensitivity and specificity only around 90% i.e false-negative and false-positive results are seen.
 
 # {data-background="images/covid_cxrs.png"}
@@ -114,36 +117,36 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 #
 
-- important to isolate patient and take appropriate respiratory precautions
+- Important to isolate patient and take appropriate respiratory precautions
 
 #
 
-- important to consider, and discuss with patients and document ceilings of care; clinical frailty score can be helpful in assessing who is likely to benefit from critical care.
+- Important to consider, and discuss with patients and document ceilings of care; clinical frailty score can be helpful in assessing who is likely to benefit from critical care.
 
 #
 
-- important to be careful with fluids (no role unless pt is shocked, might make oxygenation worse), steroids (no role, likely to increase mortality), no role for routine antipyretic administration to treat fever
+- Important to be careful with fluids (no role unless pt is shocked, might make oxygenation worse), steroids (no role, likely to increase mortality), no role for routine antipyretic administration to treat fever
 
 #
 
-- important to escalate early (if pt is for escalation) and requiring increase respiratory support and/or multiple organ support
+- Important to escalate early (if pt is for escalation) and requiring increase respiratory support and/or multiple organ support
 
 #
 
-- important to use appropriate PPE (we can't look after our patients if don't look after ourselves), to not be at work if you, or someone in your household, shows symptoms (follow PHE and local guidelines). important to check if you should be at work or not if you're pregnant, have a pre-existing medical condition, or take immunosuppressants.
+- Important to use appropriate PPE (we can't look after our patients if don't look after ourselves), to not be at work if you, or someone in your household, shows symptoms (follow PHE and local guidelines). important to check if you should be at work or not if you're pregnant, have a pre-existing medical condition, or take immunosuppressants.
 
 # Useful contacts
 
 #
 
 - COVID team, ITU, Palliative care, Site manager, Bed manager, Psych liason, Infection protection control
-- induction is app usually good
+- Induction is app usually good
 
 # nota bene
 
 #
 
-- it's a pandemic; demand will outstrip supply, we all need to pull together to do the best we can for our patients with the limited resource we have, we will all have important parts to play, no task that helps our patients is too small (and none of us are too big for any task that helps our patients)
+- It's a pandemic; demand will outstrip supply, we all need to pull together to do the best we can for our patients with the limited resource we have, we will all have important parts to play, no task that helps our patients is too small (and none of us are too big for any task that helps our patients)
 
 # References / further reading
 

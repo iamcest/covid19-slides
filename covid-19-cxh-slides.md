@@ -51,6 +51,8 @@ At the conclusion of this activity, participants will be able to...
 
 # {data-background="images/uk_cases_john_hopkins.png"}
 
+as of 25/3/20, see [update here](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
 #
 
 - demand for hospital admission and ITU will shortly outstrip supply; [case fatality rate is probably around 1%](https://www.cebm.net/global-covid-19-case-fatality-rates/) (country figures depend on case definition and how much testing is done; note also infection fatality rate is lower since some people are infected but never become symptomatic and so never become a case). 

@@ -101,10 +101,8 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 - Basics include SpO2 (+/- arterial blood gas), full blood count (lymphopenia common), U&Es, LFTs, CRP, troponin and D-dimer (both associated with increased mortality), CXR (bilateral infiltrates), nasopharyngeal and oropharyngeal swabs and sputum for micro (there's a molecular test), serological test soon
 - Even with 'gold standard' testing (multiple micro samples) and CT chest sensitivity and specificity only around 90% i.e false-negative and false-positive results are seen.
 
-#
+# {data-background="images/covid_cxrs.png"}
 
-
-    • Figure: typical CXR examples, + perhaps classical bacterial pneumonia/ pulmonary oedema
 
 #
 

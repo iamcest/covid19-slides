@@ -30,9 +30,23 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
+- (nearly) everyone has it or will have it shortly
+- droplet +/- aerosol transmission
+
 # key clinical features of covid-19 
 
 #
+
+- cardinal clinical features are cough and fever
+-- breathless common
+
+
+
+- differential diagnosis
+- investigations
+- diagnosis
+- management and prognosis
+
 
 # Quiz
 

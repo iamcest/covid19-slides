@@ -26,7 +26,7 @@ At the conclusion of this activity, participants will be able to...
 
 - Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the bug; Coronavirus disease 2019 (COVID-19) is the pneumonia that the bug causes
 
-#
+# {https://www.dzif.de/system/files/styles/dzif_lightbox_dzif_xl_1x/private/image/csm_Coronaviren_cdc_D._Fred_Murphy_Sylvia_Whitfield_c0e745b7ba%5B1%5D.gif?h=52ebdbec&itok=AabNNq2s"}
 
 - SARS-CoV-2 is a large RNA virus (approximately 120 nm in diameter) from a family of viruses called coronaviruses. Corona means crown; it's called coronavirus because the virus is spherical and has spikes which look like a crown when viewed down an electron microscope.
 
@@ -126,7 +126,7 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 
 #
 
-- Important to be careful with fluids (no role unless pt is shocked, might make oxygenation worse), steroids (no role, likely to increase mortality), no role for routine antipyretic administration to treat fever
+- Important to be careful with fluids (no role unless patient is shocked, might make oxygenation worse), steroids (no role, likely to increase mortality), no role for routine antipyretic administration to treat fever
 
 #
 

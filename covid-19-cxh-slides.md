@@ -43,7 +43,7 @@ At the conclusion of this activity, participants will be able to...
 
 # 
 
-- incubation period thought to be within 14 days following exposure, with most cases occurring approximately four to five days after exposure
+- Incubation period thought to be within 14 days following exposure, with most cases occurring approximately four to five days after exposure
 
 #
 
@@ -55,63 +55,64 @@ At the conclusion of this activity, participants will be able to...
 
 #
 
-# {data-background="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"}
-
-
-#
-- demand for hospital admission and ITU will shortly outstrip supply; [case fatality rate is probably around 1%](https://www.cebm.net/global-covid-19-case-fatality-rates/) (country figures depend on case definition and how much testing is done; note also infection fatality rate is lower since some people are infected but never become symptomatic and so never become a case). 
+- Demand for hospital admission and ITU will shortly outstrip supply; [case fatality rate is probably around 1%](https://www.cebm.net/global-covid-19-case-fatality-rates/) (country figures depend on case definition and how much testing is done; note also infection fatality rate is lower since some people are infected but never become symptomatic and so never become a case). 
 
 # 
 
-- no significant sex difference, risk factors for disease include include having contact with a confirmed case, risk factors for more severe disease include being older, having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes, and smoking.
+- No significant sex difference, risk factors for disease include include having contact with a confirmed case, risk factors for more severe disease include being older, having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes, and smoking.
 
 #
 
-- droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful)
-- aerosol transmission (can travel more than 1m, surgical mask not helpful)
-- social distancing, hand hygiene, and in a hosp setting appropriate use of PPE are important.
+- Droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful).
+- Aerosol transmission (can travel more than 1m, surgical mask not helpful).
+- Social distancing, hand hygiene, and in a hosp setting appropriate use of PPE are important.
 
 #
 
-- be aware of aerosol generating procedures (AGP) including intubation, extubation and related procedures, tracheotomy/tracheostomy procedures, manual ventilation, open suctioning, bronchoscopy, non-invasive ventilation (NIV) e.g. Bi-level Positive Airway Pressure (BiPAP) and Continuous Positive Airway Pressure ventilation (CPAP), surgery and post-mortem procedures in which high-speed devices are used, high-frequency oscillating ventilation (HFOV), high-flow Nasal Oxygen (HFNO), induction of sputum, some dental procedures (e.g. high speed drilling).
+- Be aware of aerosol generating procedures (AGP) including intubation, extubation and related procedures, tracheotomy/tracheostomy procedures, manual ventilation, open suctioning, bronchoscopy, non-invasive ventilation (NIV) e.g. Bi-level Positive Airway Pressure (BiPAP) and Continuous Positive Airway Pressure ventilation (CPAP), surgery and post-mortem procedures in which high-speed devices are used, high-frequency oscillating ventilation (HFOV), high-flow Nasal Oxygen (HFNO), induction of sputum, some dental procedures (e.g. high speed drilling).
 
-- wear appropriate PPE if you are exposed to AGP (at time of writing this is FFP3 as a minimum); make sure you learn to [doff and don PPE safely (having a buddy helps)](https://www.cdc.gov/hai/pdfs/ppe/ppe-sequence.pdf)
+- Wear appropriate PPE if you are exposed to AGP (at time of writing this is FFP3 as a minimum); make sure you learn to [doff and don PPE safely (having a buddy helps)](https://www.cdc.gov/hai/pdfs/ppe/ppe-sequence.pdf)
 
 # 
 
-- don't take COVID-19 home; change your scrubs or clothes ideally before leaving work, but
+- Don't take COVID-19 home; change your scrubs or clothes ideally before leaving work, but
 certainly on arriving home, and wash clothes just as you normally would (virus disolved by normal detergent on a normal wash)
 
 # key clinical features of covid-19
 
 #
 
-- it's a chameleon (can present in lot of different ways, can hide in plain view)
+- It's a chameleon (can present in lot of different ways, can hide in plain view)
 
 #
 
-- typical presentation is cough and fever
-- other features include breathlessness, fatigue, myalgia, anorexia
-- less often chest pain (2-5%), GI (D&V 1-10%, abdo pain approx 2%) and neurological symptoms e.g headache confusion (9%), dizziness (9-12%)
+- Typical presentation is cough and fever 4-5 days after exposure 
+- Other features include breathlessness, fatigue, myalgia, anorexia
+- Less often chest pain (2-5%), gastrointestinal (diarrhoea/vomiting 1-10%, abdo pain approx 2%) and neurological symptoms e.g headache confusion (9%), dizziness (9-12%)
 
 #
 
-- differential diagnosis broad; plenty of diseases can mimic including flu, disease can also co-exist
-- no reason to think usual population diseases are going to go away so Hickam's dictum likely to apply: "A man can have as many diseases as he damn well pleases."
+- Differential diagnosis broad; plenty of diseases can mimic including flu, disease can also co-exist
+- No reason to think usual population diseases are going to go away so Hickam's dictum likely to apply: "A man can have as many diseases as he damn well pleases."
 
 #
 
-- investigations to confirm diagnosis (and rule out differentials) and grade severity
-- basics include SpO2 (+/- abg), fbc (lymphopenia common), U&Es, lfts, crp, d-dimer (high d-dimer assoc with increased mortality), CXR (bilateral infiltrates), nasopharyngeal and oropharyngeal swabs and sputum for micro (there's a molecular test), serological test soon
-- even with 'gold standard' testing (multiple micro samples) and CT chest sensitivity and specificity only around 90% i.e false-negative and false-positive results are seen.
+- Investigations to confirm diagnosis (and rule out differentials) and grade severity
+- Basics include SpO2 (+/- arterial blood gas), full blood count (lymphopenia common), U&Es, LFTs, CRP, troponin and D-dimer (both associated with increased mortality), CXR (bilateral infiltrates), nasopharyngeal and oropharyngeal swabs and sputum for micro (there's a molecular test), serological test soon
+- Even with 'gold standard' testing (multiple micro samples) and CT chest sensitivity and specificity only around 90% i.e false-negative and false-positive results are seen.
 
 #
 
-- management is largely supportive (several ongoing drug trials and vaccine development efforts; no drugs proven safe and effective yet) and prognosis good for most people infected (naturally much less good for subset of patients unwell enough for hospital admission)
+
+    • Figure: typical CXR examples, + perhaps classical bacterial pneumonia/ pulmonary oedema
 
 #
 
-- important to consider non-COVID-19 disease
+- Management is largely supportive (several ongoing drug trials and vaccine development efforts; no drugs proven safe and effective yet) and prognosis good for most people infected (naturally much less good for subset of patients unwell enough for hospital admission)
+
+#
+
+- Important to consider non-COVID-19 disease
 
 #
 

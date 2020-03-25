@@ -6,7 +6,7 @@
 
 #
 
-This is written by two respiratory doctors for an audience that includes operation doctors in the midst of a pandemic; it's a fluid situation, lots of research is being done and information contained within may become stale quickly. If you spot a bug or inaccuracy please ping me at drcjar@gmail.com (or submit a pull request https://github.com/drcjar/covid-19-cxh-slides/) and I will fix.
+This is written by two respiratory doctors for an audience that includes operation doctors in the midst of a pandemic; it's a fluid situation, lots of research is being done and information contained within may become stale quickly. If you spot a bug or inaccuracy please ping me at [drcjar@gmail.com](drcjar@gmail.com) or submit a pull request [https://github.com/drcjar/covid-19-cxh-slides/](https://github.com/drcjar/covid-19-cxh-slides/) and I will fix.
 
 # Learning objectives
 

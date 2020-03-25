@@ -71,8 +71,20 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - management is largely supportive (several ongoing drug trials) and prognosis good (naturally it's much less good for subset of patients unwell enough for hospital admission)
+
+# 
+
 - important to consider non-covid19 disease
-- important to consider, and discuss with patients and document, ceilings of care
+
+#
+
+- important to consider, and discuss with patients and document, ceilings of care; clinical frailty score helpful (less than 5 is less frail and more likely to benefit from critical care, 5 or more is more frail and less likely to benefit from critical care.)
+
+# 
+
+- be careful with fluids (no role unless pt is shocked, might make oxygenation worse), steroids (no role, likely to increase mortality), no role for routine antipyretic administration to treat fever
+- escalate early (if pt is for escalation) and requiring increase respiratory support and/or multiple organ support
+
 
 # Quiz
 

@@ -28,15 +28,22 @@ At the conclusion of this activity, participants will be able to...
 
 - sars-cov2 is a large RNA virus (approximately 120 nm in diameter) from a family of viruses called coronaviruses. Corona means crown; it's called coronavirus because the virus is spherical and has spikes which look like a crown when viewed down an electron microscope.
 
-#
-
-- covid-19 is increasingly common in the population just now; for most people it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, some people need hospital admission and some of those need ITU.
-
 # basic epidemiology of covid-19
 
 #
 
-- (nearly) everyone has it or will have it shortly
+-  WHO informed of outbreak of pneumonia of unknown aetiology in Wuhan City, Hubei Province, China on 31 December 2019; declared public health emergency of international concern on 30 January 2020; declared a pandemic on 11 March 2020
+
+#
+
+- covid-19 is increasingly common in the UK population just now; for most people it's a mild self-limiting disease characterised by cough and fever secondary to respiratory infection with sars-cov2; however, some people need hospital admission and some of those need ITU.
+
+# 
+
+- demand for hospital admission and ITU will shortly outstrip supply; case fatality rate is probably around 1% (country figures depend on case definition and how much testing is done). no significant sex difference, risk factors for hospital admission include being older, being a healthcare worker, and having comorbidities such as pre-existing respiratory and cardiovascular diseases and diabetes.
+
+#
+
 - droplet +/- aerosol transmission
 
 # key clinical features of covid-19 

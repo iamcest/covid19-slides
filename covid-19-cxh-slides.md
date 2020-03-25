@@ -28,7 +28,8 @@ At the conclusion of this activity, participants will be able to...
 
 # {data-background="images/sars_cov_2.jpg"}
 
-- SARS-CoV-2 is a large RNA virus (approximately 120 nm in diameter) from a family of viruses called coronaviruses. Corona means crown; it's called coronavirus because the virus is spherical and has spikes which look like a crown when viewed down an electron microscope.
+- SARS-CoV-2 is a large RNA virus (approximately 120 nm in diameter) from a family of viruses called coronaviruses.
+- Corona means crown; it's called coronavirus because the virus is spherical and has spikes which look like a crown when viewed down an electron microscope.
 
 # basic epidemiology of covid-19
 

@@ -116,18 +116,22 @@ certainly on arriving home, and wash the clothes just as you normally would (vir
 
 #
 
+induction app usually good, also...
+
+#
+
 |                                           | SMH              | CXH   | HH    |
 |-------------------------------------------|------------------|-------|-------|
 | COVID Team                                | Via mobile       |       |       |
 | ITU                                       | 1212             | 7487  | 9008  |
-| Palliative Care Out of Hours              | 26011            | 11402 | 31531 |
-|                                           | 7717547013       |       |       |
+| Palliative Care                           | 26011            | 11402 | 31531 |
+|                                           | 07717547013      |       |       |
 | Site Manager                              | 1065             | 1438  | 9335  |
 | Bed Manager                               | 1085             | 1587  | 9231  |
 | Psych Liaison                             | 1624             | 5159  | 5158  |
-| Infection Protection Control Out of Hours | 21699 (blp 1007) | 35977 | 33272 |
+| Infection Protection Control              | 21699 (blp 1007) | 35977 | 33272 |
 |                                           | Via Switch       |       |       |
-| Chaplaincy  Out of Hours                  | 21508            |       |       |
+| Chaplaincy                                | 21508            |       |       |
 |                                           | Via Switch       |       |       |
 
 # nota bene

@@ -65,7 +65,6 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - Droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful).
-- Aerosol transmission (can travel more than 1m, surgical mask not helpful).
 - Social distancing, hand hygiene, and in a hospital setting [appropriate use of PPE](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf) are important.
 
 #
@@ -142,7 +141,7 @@ certainly on arriving home, and wash clothes just as you normally would (virus d
 #
 
 - COVID team, ITU, Palliative care, Site manager, Bed manager, Psych liaison, Infection protection control
-- Induction is app usually good
+- [Induction app](https://induction-app.com/) is usually good
 
 # nota bene
 

@@ -65,6 +65,7 @@ At the conclusion of this activity, participants will be able to...
 #
 
 - Droplet (dominant means of transmission, can't travel more than 1m, can persist on surfaces, surgical mask helpful).
+- Aerosol (uncertain how important this mode of transmission is[1](https://www.nejm.org/doi/10.1056/NEJMc2004973)[2](https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article), can travel more than 1m, surgical mask not helpful).
 - Social distancing, hand hygiene, and in a hospital setting [appropriate use of PPE](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874411/When_to_use_face_mask_or_FFP3.pdf) are important.
 
 #
